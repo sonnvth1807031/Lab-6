@@ -8,3 +8,9 @@
 .container_box_1{
 	border-bottom: 2px solid black; height: 100px
 }
+.1{
+	float: left; width: 50%;padding-top: 14px;text-align: center;margin-left: 115px
+}
+.2{
+	float: left;text-align: right
+}
