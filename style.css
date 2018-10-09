@@ -1,0 +1,10 @@
+
+.container_box_2 {
+	background-color: #00BFFF; color: white; padding: 20px; border-bottom: 2px solid black
+}
+.container{
+	border: 2px solid black;
+}
+.container_box_1{
+	border-bottom: 2px solid black; height: 100px
+}
