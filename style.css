@@ -8,9 +8,54 @@
 .container_box_1{
 	border-bottom: 2px solid black; height: 100px
 }
-.1{
+.q{
 	float: left; width: 50%;padding-top: 14px;text-align: center;margin-left: 115px
 }
-.2{
+.w{
 	float: left;text-align: right
+}
+.e{
+	text-align: left; font-size: 20px
+}
+.r{
+	text-align: right; padding: 37px; margin-right: 95px
+}
+.t{
+	border-right: 2px solid black; padding-right: 5px; color: blue
+}
+.y{
+	border-right: 2px solid black; padding-right: 5px;color: blue
+}
+.u{
+	border-right: 2px solid black; padding-right: 5px;color: blue
+}
+.i{
+	color: blue
+}
+.o{
+	text-align: center
+}
+.p{
+	text-align: right; padding-right: 370px
+}
+.a{
+	padding-top: 20px
+}
+.s{
+	float: left; width: 26%; padding-left: 120px;padding-right: 25px
+}
+.d{
+	float: left; width: 26%; padding-right: 25px
+}
+.f{
+	padding-right: 120px; margin-bottom: 30px
+}
+.g{
+	float: left; width: 26%; padding-left: 120px;padding-right: 25px
+}
+.h{
+	float: left; width: 26%; margin-bottom: 30px
+}
+.anhson{
+	clear: both; background-color: #00BFFF; color: white; text-align: center; border-top: 2px solid black; padding: 10px
 }
